@@ -1,0 +1,29 @@
+Found 2 CUDA-compatible device(s):
+
+Device 0: NVIDIA A100-SXM4-40GB
+  Compute capability: 8.0
+  Total global memory: 40513 MB
+  Shared memory per block: 48 KB
+  Registers per block: 65536
+  Warp size: 32
+  Max threads per block: 1024
+  Max threads dim: [1024, 1024, 64]
+  Max grid size: [2147483647, 65535, 65535]
+  Clock rate: 1410 MHz
+  Multiprocessor count: 108
+  Memory clock rate: 1215 MHz
+  Memory bus width: 5120 bits
+
+Device 1: NVIDIA A100-SXM4-40GB
+  Compute capability: 8.0
+  Total global memory: 40513 MB
+  Shared memory per block: 48 KB
+  Registers per block: 65536
+  Warp size: 32
+  Max threads per block: 1024
+  Max threads dim: [1024, 1024, 64]
+  Max grid size: [2147483647, 65535, 65535]
+  Clock rate: 1410 MHz
+  Multiprocessor count: 108
+  Memory clock rate: 1215 MHz
+  Memory bus width: 5120 bits
